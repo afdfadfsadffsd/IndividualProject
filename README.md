@@ -15,7 +15,7 @@ Hangman is a shell and text based game.
 
 ![FinalGuessRight](https://github.com/afdfadfsadffsd/IndividualProject/blob/main/images/FinalGuessRight.png?raw=true)
 
-![FirstGuessWrong](https://github.com/afdfadfsadffsd/IndividualProject/blob/main/images/FinalGuessRight.png?raw=true)
+![FirstGuessWrong](https://github.com/afdfadfsadffsd/IndividualProject/blob/main/images/FirstGuessWrong.png?raw=true)
 
 
 
