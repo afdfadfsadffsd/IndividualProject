@@ -1,5 +1,5 @@
 # Hangman 
-* A simple hangman game in C++ with a selection of 200 words for the user to guess from. Shell based game using ascii art to display the hangman.
+* A simple hangman game in C++ with a selection of 130 words for the user to guess from. Shell based game using ascii art to display the hangman.
 ## Project Feature and Goals
 * A counter of how many guesses it takes
 * a constantly updated drawing of the hangman for each guess
