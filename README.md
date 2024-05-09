@@ -26,3 +26,4 @@ Hangman is a shell and text based game.
 ##
 ### Class Diagram
 #### I opted for using a flowchart as a class diagram would be too simple
+![Flowchart](https://github.com/afdfadfsadffsd/IndividualProject/blob/main/images/Flowchart.png?raw=true)
